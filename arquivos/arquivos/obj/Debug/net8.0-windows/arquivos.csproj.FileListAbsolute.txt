@@ -1,0 +1,16 @@
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\bin\Debug\net8.0-windows\arquivos.exe
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\bin\Debug\net8.0-windows\arquivos.deps.json
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\bin\Debug\net8.0-windows\arquivos.runtimeconfig.json
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\bin\Debug\net8.0-windows\arquivos.dll
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\bin\Debug\net8.0-windows\arquivos.pdb
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.Form1.resources
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.csproj.GenerateResource.cache
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.AssemblyInfoInputs.cache
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.AssemblyInfo.cs
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.csproj.CoreCompileInputs.cache
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.dll
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\refint\arquivos.dll
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.pdb
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\arquivos.genruntimeconfig.cache
+D:\Desktop\Programando\ProjetoCS\arquivos\arquivos\obj\Debug\net8.0-windows\ref\arquivos.dll

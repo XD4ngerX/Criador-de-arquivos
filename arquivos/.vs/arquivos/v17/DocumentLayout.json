@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DD81E5-9F23-40CD-9386-3ACF5C9DC94A}|arquivos\\arquivos.csproj|d:\\desktop\\programando\\projetocs\\arquivos\\arquivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DD81E5-9F23-40CD-9386-3ACF5C9DC94A}|arquivos\\arquivos.csproj|solutionrelative:arquivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DD81E5-9F23-40CD-9386-3ACF5C9DC94A}|arquivos\\arquivos.csproj|D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\arquivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75DD81E5-9F23-40CD-9386-3ACF5C9DC94A}|arquivos\\arquivos.csproj|solutionrelative:arquivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\arquivos\\Form1.cs",
+              "RelativeDocumentMoniker": "arquivos\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\arquivos\\Form1.cs",
+              "RelativeToolTip": "arquivos\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:48:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\arquivos\\Form1.cs",
+              "RelativeDocumentMoniker": "arquivos\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\Programando\\ProjetoCS\\arquivos\\arquivos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "arquivos\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:42:47.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
